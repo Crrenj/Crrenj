@@ -89,6 +89,26 @@ Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Const
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
+## 🏆 Trophies &amp; badges · Trophées · Trofeos
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=-%3F&theme=dracula" />
+    <img src="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=-%3F&theme=flat" alt="GitHub trophies" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Crrenj?tab=achievements"><img src="assets/achievements/pair-extraordinaire.png" width="96" alt="Pair Extraordinaire ×4 (gold)" title="Pair Extraordinaire ×4" /></a>
+  <a href="https://github.com/Crrenj?tab=achievements"><img src="assets/achievements/pull-shark.png" width="96" alt="Pull Shark ×3 (silver)" title="Pull Shark ×3" /></a>
+  <a href="https://github.com/Crrenj?tab=achievements"><img src="assets/achievements/quickdraw.png" width="96" alt="Quickdraw" title="Quickdraw" /></a>
+  <a href="https://github.com/Crrenj?tab=achievements"><img src="assets/achievements/yolo.png" width="96" alt="YOLO" title="YOLO" /></a>
+  <br/>
+  <sub><b>Pair Extraordinaire ×4</b> · <b>Pull Shark ×3</b> · <b>Quickdraw</b> · <b>YOLO</b></sub>
+</p>
+
+<img src="assets/divider.svg" width="100%" height="6" alt="" />
+
 ## 😈 Why so serious?
 
 <p align="center">
