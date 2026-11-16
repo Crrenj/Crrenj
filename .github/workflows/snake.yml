@@ -17,6 +17,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Runs before the snake step: that one runs in a container as root and
+      # would leave dist/ unwritable for the runner user.
+      - name: Generate year graph
+        run: node scripts/year-graph.mjs dist/year.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -26,12 +34,6 @@ jobs:
             dist/snake-dark.svg?palette=github-dark&color_snake=#c77dff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate year graph
-        run: node scripts/year-graph.mjs dist/year.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USER: ${{ github.repository_owner }}
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
