@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" role="img" aria-label="Henri — Co-founder, Lanjo Technologies">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1026"/><stop offset=".55" stop-color="#2a1458"/><stop offset="1" stop-color="#0a2a4a"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" spreadMethod="reflect">
+      <stop offset="0" stop-color="#00c6ff"/><stop offset=".5" stop-color="#b388ff"/><stop offset="1" stop-color="#ff5ea0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="2 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#7f5af0" stop-opacity=".55"/><stop offset="1" stop-color="#7f5af0" stop-opacity="0"/></radialGradient>
+    <clipPath id="r"><rect width="1200" height="320" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <circle cx="260" cy="80" r="260" fill="url(#glow)"><animate attributeName="cx" values="260;940;260" dur="18s" repeatCount="indefinite"/></circle>
+    <g fill="#fff">
+      <circle cx="90" cy="60" r="1.6"><animate attributeName="opacity" values=".1;1;.1" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="210" cy="140" r="1.2"><animate attributeName="opacity" values="1;.1;1" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="380" cy="40" r="1.8"><animate attributeName="opacity" values=".2;1;.2" dur="1.9s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="70" r="1.1"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
+      <circle cx="760" cy="36" r="1.7"><animate attributeName="opacity" values=".1;1;.1" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="900" cy="120" r="1.2"><animate attributeName="opacity" values="1;.1;1" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="1040" cy="56" r="1.9"><animate attributeName="opacity" values=".2;1;.2" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="1130" cy="150" r="1.3"><animate attributeName="opacity" values="1;.2;1" dur="1.7s" repeatCount="indefinite"/></circle>
+    </g>
+    <!-- shooting star -->
+    <g opacity="0">
+      <line x1="0" y1="0" x2="-90" y2="-30" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+      <animateTransform attributeName="transform" type="translate" values="300 -20;1300 320" dur="7s" begin="1s" repeatCount="indefinite" keyTimes="0;1"/>
+      <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.05;.22;1" dur="7s" begin="1s" repeatCount="indefinite"/>
+    </g>
+    <text x="600" y="150" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="104" font-weight="800" letter-spacing="-2" fill="url(#name)">Henri</text>
+    <text x="600" y="198" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#c9d1ff" letter-spacing="3">CO-FOUNDER · LANJO TECHNOLOGIES · SANTIAGO, RD</text>
+    <!-- waves -->
+    <path fill="#00c6ff" fill-opacity=".18" d="M0 250 q150 -46 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V320 H0Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="9s" repeatCount="indefinite"/></path>
+    <path fill="#b388ff" fill-opacity=".22" d="M0 268 q150 34 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V320 H0Z">
+      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="13s" repeatCount="indefinite"/></path>
+    <path fill="#ff5ea0" fill-opacity=".20" d="M0 286 q150 -26 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V320 H0Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="6s" repeatCount="indefinite"/></path>
+  </g>
+</svg>

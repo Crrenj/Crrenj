@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" role="img" aria-label="">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00c6ff"/><stop offset=".5" stop-color="#7f5af0"/><stop offset="1" stop-color="#ff5ea0"/></linearGradient>
+  <clipPath id="r"><rect width="1200" height="120" rx="22"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <path fill="url(#g)" fill-opacity=".35" d="M0 50 q150 -40 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H0Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="8s" repeatCount="indefinite"/></path>
+    <path fill="url(#g)" fill-opacity=".55" d="M0 70 q150 30 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H0Z"><animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="11s" repeatCount="indefinite"/></path>
+    <path fill="url(#g)" d="M0 92 q150 -22 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H0Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="5s" repeatCount="indefinite"/></path>
+  </g>
+</svg>
