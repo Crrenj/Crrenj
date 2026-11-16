@@ -57,11 +57,31 @@ Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Const
 ## ♣️ Stack
 
 <p align="center">
+  <sub><b>Languages · Langages · Lenguajes</b></sub><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,flutter,dart,supabase,postgres,vercel,git,figma,vscode&perline=12&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,flutter,dart,supabase,postgres,vercel,git,figma,vscode&perline=12&theme=light" alt="TypeScript, Next.js, React, Tailwind CSS, Flutter, Dart, Supabase, PostgreSQL, Vercel, Git, Figma, VS Code" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,dart,py,c,cpp,java,php,bash,html,css&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,dart,py,c,cpp,java,php,bash,html,css&perline=12&theme=light" alt="TypeScript, JavaScript, Dart, Python, C, C++, Java, PHP, Bash, HTML, CSS" />
   </picture>
-  <br/><br/>
+</p>
+
+<p align="center">
+  <sub><b>Frameworks</b></sub><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,nodejs,godot&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,nodejs,godot&perline=12&theme=light" alt="Next.js, React, Tailwind CSS, Flutter, Node.js, Godot" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub><b>Data · Infra · Tools</b></sub><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=supabase,postgres,vercel,cmake,git,githubactions,figma,vscode&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,cmake,git,githubactions,figma,vscode&perline=12&theme=light" alt="Supabase, PostgreSQL, Vercel, CMake, Git, GitHub Actions, Figma, VS Code" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_/_PL%2FpgSQL-9D4EDD?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL / PL/pgSQL" />
   <img src="https://img.shields.io/badge/Stripe-9D4EDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
@@ -90,6 +110,10 @@ Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Const
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
 ## 🏆 Trophies &amp; badges · Trophées · Trofeos
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Crrenj/Crrenj/output/trophies.svg" width="100%" alt="Trophies from the last year of contributions: total, best day, best week, longest streak, active days, current streak" />
+</p>
 
 <p align="center">
   <picture>

@@ -19,8 +19,10 @@ jobs:
 
       # Runs before the snake step: that one runs in a container as root and
       # would leave dist/ unwritable for the runner user.
-      - name: Generate year graph
-        run: node scripts/year-graph.mjs dist/year.svg
+      - name: Generate year graph and trophies
+        run: |
+          node scripts/year-graph.mjs dist/year.svg
+          node scripts/trophies.mjs dist/trophies.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
