@@ -1,42 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" role="img" aria-label="Henri — Co-founder, Lanjo Technologies">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" aria-label="Henri — Why so serious? Co-founder, Lanjo Technologies">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1026"/><stop offset=".55" stop-color="#2a1458"/><stop offset="1" stop-color="#0a2a4a"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#150726"/><stop offset=".55" stop-color="#2d0b52"/><stop offset="1" stop-color="#07190c"/></linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#39ff14"/><stop offset=".5" stop-color="#c77dff"/><stop offset="1" stop-color="#39ff14"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="2 0" dur="5s" repeatCount="indefinite"/>
     </linearGradient>
-    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" spreadMethod="reflect">
-      <stop offset="0" stop-color="#00c6ff"/><stop offset=".5" stop-color="#b388ff"/><stop offset="1" stop-color="#ff5ea0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="2 0" dur="6s" repeatCount="indefinite"/>
-    </linearGradient>
-    <radialGradient id="glow"><stop offset="0" stop-color="#7f5af0" stop-opacity=".55"/><stop offset="1" stop-color="#7f5af0" stop-opacity="0"/></radialGradient>
-    <clipPath id="r"><rect width="1200" height="320" rx="22"/></clipPath>
+    <radialGradient id="glow"><stop offset="0" stop-color="#39ff14" stop-opacity=".28"/><stop offset="1" stop-color="#39ff14" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2"><stop offset="0" stop-color="#9d4edd" stop-opacity=".6"/><stop offset="1" stop-color="#9d4edd" stop-opacity="0"/></radialGradient>
+    <clipPath id="r"><rect width="1200" height="340" rx="22"/></clipPath>
   </defs>
   <g clip-path="url(#r)">
-    <rect width="1200" height="320" fill="url(#bg)"/>
-    <circle cx="260" cy="80" r="260" fill="url(#glow)"><animate attributeName="cx" values="260;940;260" dur="18s" repeatCount="indefinite"/></circle>
-    <g fill="#fff">
-      <circle cx="90" cy="60" r="1.6"><animate attributeName="opacity" values=".1;1;.1" dur="2.4s" repeatCount="indefinite"/></circle>
-      <circle cx="210" cy="140" r="1.2"><animate attributeName="opacity" values="1;.1;1" dur="3.1s" repeatCount="indefinite"/></circle>
-      <circle cx="380" cy="40" r="1.8"><animate attributeName="opacity" values=".2;1;.2" dur="1.9s" repeatCount="indefinite"/></circle>
-      <circle cx="560" cy="70" r="1.1"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
-      <circle cx="760" cy="36" r="1.7"><animate attributeName="opacity" values=".1;1;.1" dur="3.4s" repeatCount="indefinite"/></circle>
-      <circle cx="900" cy="120" r="1.2"><animate attributeName="opacity" values="1;.1;1" dur="2.2s" repeatCount="indefinite"/></circle>
-      <circle cx="1040" cy="56" r="1.9"><animate attributeName="opacity" values=".2;1;.2" dur="2.9s" repeatCount="indefinite"/></circle>
-      <circle cx="1130" cy="150" r="1.3"><animate attributeName="opacity" values="1;.2;1" dur="1.7s" repeatCount="indefinite"/></circle>
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <circle cx="250" cy="90" r="280" fill="url(#glow2)"><animate attributeName="cx" values="250;950;250" dur="20s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="260" r="240" fill="url(#glow)"><animate attributeName="cx" values="950;250;950" dur="16s" repeatCount="indefinite"/></circle>
+    <text x="70" y="80" font-family="'Chalkduster','Marker Felt','Comic Sans MS','Segoe Print',cursive" font-size="30" fill="#39ff14" transform="rotate(-12 70 80)" opacity=".08">HA HA HA<animate attributeName="opacity" values=".04;.26;.04" dur="3.1s" repeatCount="indefinite"/></text>
+    <text x="930" y="70" font-family="'Chalkduster','Marker Felt','Comic Sans MS','Segoe Print',cursive" font-size="26" fill="#39ff14" transform="rotate(9 930 70)" opacity=".08">HA HA HA<animate attributeName="opacity" values=".04;.26;.04" dur="2.3s" repeatCount="indefinite"/></text>
+    <text x="110" y="290" font-family="'Chalkduster','Marker Felt','Comic Sans MS','Segoe Print',cursive" font-size="24" fill="#39ff14" transform="rotate(7 110 290)" opacity=".08">HA HA HA<animate attributeName="opacity" values=".04;.26;.04" dur="4.2s" repeatCount="indefinite"/></text>
+    <text x="960" y="300" font-family="'Chalkduster','Marker Felt','Comic Sans MS','Segoe Print',cursive" font-size="32" fill="#39ff14" transform="rotate(-8 960 300)" opacity=".08">HA HA HA<animate attributeName="opacity" values=".04;.26;.04" dur="2.8s" repeatCount="indefinite"/></text>
+    <text x="300" y="40" font-family="'Chalkduster','Marker Felt','Comic Sans MS','Segoe Print',cursive" font-size="18" fill="#39ff14" transform="rotate(4 300 40)" opacity=".08">HA HA HA<animate attributeName="opacity" values=".04;.26;.04" dur="3.7s" repeatCount="indefinite"/></text>
+    <text x="780" y="130" font-family="'Chalkduster','Marker Felt','Comic Sans MS','Segoe Print',cursive" font-size="18" fill="#39ff14" transform="rotate(-5 780 130)" opacity=".08">HA HA HA<animate attributeName="opacity" values=".04;.26;.04" dur="5.1s" repeatCount="indefinite"/></text>
+    <g><animateTransform attributeName="transform" type="translate" values="80 -50;80 400" dur="11s" begin="0s" repeatCount="indefinite"/>
+      <text text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" fill="#c77dff" fill-opacity=".55">♠<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/></text></g>
+    <g><animateTransform attributeName="transform" type="translate" values="230 -50;230 400" dur="14s" begin="3s" repeatCount="indefinite"/>
+      <text text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" fill="#ff3b5c" fill-opacity=".55">♥<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/></text></g>
+    <g><animateTransform attributeName="transform" type="translate" values="1000 -50;1000 400" dur="12s" begin="1.5s" repeatCount="indefinite"/>
+      <text text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" fill="#ff3b5c" fill-opacity=".55">♦<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/></text></g>
+    <g><animateTransform attributeName="transform" type="translate" values="1130 -50;1130 400" dur="15s" begin="5s" repeatCount="indefinite"/>
+      <text text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" fill="#39ff14" fill-opacity=".55">♣<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/></text></g>
+    <g><animateTransform attributeName="transform" type="translate" values="380 -50;380 400" dur="17s" begin="7s" repeatCount="indefinite"/>
+      <text text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" fill="#39ff14" fill-opacity=".55">♣<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/></text></g>
+    <g><animateTransform attributeName="transform" type="translate" values="860 -50;860 400" dur="13s" begin="9s" repeatCount="indefinite"/>
+      <text text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" fill="#c77dff" fill-opacity=".55">♠<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="11s" repeatCount="indefinite"/></text></g>
+    <text x="600" y="138" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="110" font-weight="800" letter-spacing="-2" fill="url(#name)">Henri</text>
+    <!-- the grin -->
+    <g fill="none" stroke="#ff2e4d" stroke-linecap="round">
+      <path d="M455 168 Q600 236 745 168" stroke-width="7" pathLength="1" stroke-dasharray="1">
+        <animate attributeName="stroke-dashoffset" values="1;0;0;1" keyTimes="0;.25;.85;1" dur="6s" repeatCount="indefinite"/></path>
+      <path d="M448 156 l14 22 M752 156 l-14 22" stroke-width="4" opacity=".9"/>
     </g>
-    <!-- shooting star -->
-    <g opacity="0">
-      <line x1="0" y1="0" x2="-90" y2="-30" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
-      <animateTransform attributeName="transform" type="translate" values="300 -20;1300 320" dur="7s" begin="1s" repeatCount="indefinite" keyTimes="0;1"/>
-      <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.05;.22;1" dur="7s" begin="1s" repeatCount="indefinite"/>
-    </g>
-    <text x="600" y="150" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="104" font-weight="800" letter-spacing="-2" fill="url(#name)">Henri</text>
-    <text x="600" y="198" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" fill="#c9d1ff" letter-spacing="3">CO-FOUNDER · LANJO TECHNOLOGIES · SANTIAGO, RD</text>
-    <!-- waves -->
-    <path fill="#00c6ff" fill-opacity=".18" d="M0 250 q150 -46 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V320 H0Z">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="9s" repeatCount="indefinite"/></path>
-    <path fill="#b388ff" fill-opacity=".22" d="M0 268 q150 34 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V320 H0Z">
-      <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="13s" repeatCount="indefinite"/></path>
-    <path fill="#ff5ea0" fill-opacity=".20" d="M0 286 q150 -26 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V320 H0Z">
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="6s" repeatCount="indefinite"/></path>
+    <g><animateTransform attributeName="transform" type="rotate" values="-1.2 600 262;1.2 600 262;-0.6 600 262;1.6 600 262;-1.2 600 262" dur="1.4s" repeatCount="indefinite"/>
+      <text x="600" y="270" text-anchor="middle" font-family="'Chalkduster','Marker Felt','Comic Sans MS','Segoe Print',cursive" font-size="50" fill="#39ff14" letter-spacing="3">WHY SO SERIOUS?</text></g>
+    <text x="600" y="312" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#d9c2ff" letter-spacing="3">CO-FOUNDER · LANJO TECHNOLOGIES · SANTIAGO, RD</text>
   </g>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%" height="6" preserveAspectRatio="none" role="img" aria-label="">
   <defs><linearGradient id="g" x1="0" x2="1" spreadMethod="reflect">
-    <stop offset="0" stop-color="#00c6ff"/><stop offset=".5" stop-color="#7f5af0"/><stop offset="1" stop-color="#ff5ea0"/>
+    <stop offset="0" stop-color="#39ff14"/><stop offset=".5" stop-color="#9d4edd"/><stop offset="1" stop-color="#39ff14"/>
     <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="2 0" dur="4s" repeatCount="indefinite"/>
   </linearGradient></defs>
   <rect width="1200" height="6" rx="3" fill="url(#g)"/>

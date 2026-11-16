@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" role="img" aria-label="">
-  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00c6ff"/><stop offset=".5" stop-color="#7f5af0"/><stop offset="1" stop-color="#ff5ea0"/></linearGradient>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#39ff14"/><stop offset=".5" stop-color="#9d4edd"/><stop offset="1" stop-color="#39ff14"/></linearGradient>
   <clipPath id="r"><rect width="1200" height="120" rx="22"/></clipPath></defs>
   <g clip-path="url(#r)">
-    <path fill="url(#g)" fill-opacity=".35" d="M0 50 q150 -40 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H0Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="8s" repeatCount="indefinite"/></path>
-    <path fill="url(#g)" fill-opacity=".55" d="M0 70 q150 30 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H0Z"><animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="11s" repeatCount="indefinite"/></path>
-    <path fill="url(#g)" d="M0 92 q150 -22 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H0Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="5s" repeatCount="indefinite"/></path>
+    <path fill="#9d4edd" fill-opacity=".35" d="M0 50 q150 -40 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H0Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="8s" repeatCount="indefinite"/></path>
+    <path fill="#39ff14" fill-opacity=".3" d="M0 70 q150 30 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H0Z"><animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="11s" repeatCount="indefinite"/></path>
+    <path fill="#3c096c" d="M0 92 q150 -22 300 0 t300 0 t300 0 t300 0 t300 0 t300 0 V120 H0Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="5s" repeatCount="indefinite"/></path>
+    <text x="600" y="114" text-anchor="middle" font-family="'Chalkduster','Marker Felt','Comic Sans MS','Segoe Print',cursive" font-size="15" fill="#39ff14" letter-spacing="4">HA HA HA HA HA HA HA</text>
   </g>
 </svg>

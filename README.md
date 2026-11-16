@@ -1,23 +1,23 @@
-<a href="https://mi-saludrd.com"><img src="assets/banner.svg" width="100%" alt="Henri — Co-founder, Lanjo Technologies · Santiago, RD" /></a>
+<a href="https://mi-saludrd.com"><img src="assets/banner.svg" width="100%" alt="Henri — Why so serious? Co-founder, Lanjo Technologies · Santiago, RD" /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=7F5AF0&center=true&vCenter=true&width=760&height=50&lines=Hola%2C+soy+Henri+%F0%9F%91%8B;Salut%2C+moi+c%27est+Henri+%F0%9F%91%8B;Hey%2C+I%27m+Henri+%F0%9F%91%8B;Co-founder+%40+Lanjo+Technologies;Building+Mi+SaludRD+%F0%9F%8F%A5;Next.js+%C2%B7+Flutter+%C2%B7+Supabase+%C2%B7+Stripe;De+la+idea+a+producci%C3%B3n+%F0%9F%9A%80" alt="Hola · Salut · Hey — soy Henri" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=9D4EDD&center=true&vCenter=true&width=760&height=50&lines=Why+so+serious%3F+%F0%9F%83%8F;Hola%2C+soy+Henri+%F0%9F%91%8B;Salut%2C+moi+c%27est+Henri+%F0%9F%91%8B;Hey%2C+I%27m+Henri+%F0%9F%91%8B;Co-founder+%40+Lanjo+Technologies;Building+Mi+SaludRD+%F0%9F%8F%A5;Next.js+%C2%B7+Flutter+%C2%B7+Supabase+%C2%B7+Stripe;De+la+idea+a+producci%C3%B3n+%F0%9F%9A%80;HA+HA+HA+HA+HA+%F0%9F%83%8F" alt="Why so serious? — Hola · Salut · Hey, soy Henri" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/hablo-Español-ff5ea0?style=flat-square" alt="Español" />
-  <img src="https://img.shields.io/badge/je_parle-Français-7f5af0?style=flat-square" alt="Français" />
-  <img src="https://img.shields.io/badge/I_speak-English-00c6ff?style=flat-square" alt="English" />
-  <img src="https://komarev.com/ghpvc/?username=Crrenj&style=flat-square&color=7f5af0&label=visitas" alt="Visitas" />
+  <img src="https://img.shields.io/badge/hablo-Español-2ea043?style=flat-square" alt="Español" />
+  <img src="https://img.shields.io/badge/je_parle-Français-9d4edd?style=flat-square" alt="Français" />
+  <img src="https://img.shields.io/badge/I_speak-English-2ea043?style=flat-square" alt="English" />
+  <img src="https://komarev.com/ghpvc/?username=Crrenj&style=flat-square&color=9d4edd&label=visitas" alt="Visitas" />
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="760" alt="Terminal: henri, co-founder at Lanjo Technologies — Español, Français, English — projects: mi-saludrd, lanjo-technologies" />
+  <img src="assets/terminal.svg" width="760" alt="Terminal: henri, co-founder at Lanjo Technologies — Español, Français, English — projects: mi-saludrd, lanjo-technologies — why so serious?" />
 </p>
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## 👋 Sobre mí · À propos · About
+## 🃏 Sobre mí · À propos · About
 
 <details open>
 <summary><b>🇩🇴 Español</b></summary>
@@ -45,7 +45,7 @@ Co-founder of **Lanjo Technologies**, based in Santiago, Dominican Republic. I b
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## 🚀 Proyectos · Projets · Projects
+## ♠️ Proyectos · Projets · Projects
 
 <p align="center">
   <a href="https://mi-saludrd.com"><img src="assets/card-saludrd.svg" width="49%" alt="Mi SaludRD — salud digital para República Dominicana: médicos, citas en línea y gestión de consultorio. Next.js, Flutter, Supabase, Stripe." /></a>
@@ -54,7 +54,7 @@ Co-founder of **Lanjo Technologies**, based in Santiago, Dominican Republic. I b
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## 🛠️ Stack
+## ♣️ Stack
 
 <p align="center">
   <picture>
@@ -62,24 +62,21 @@ Co-founder of **Lanjo Technologies**, based in Santiago, Dominican Republic. I b
     <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,flutter,dart,supabase,postgres,vercel,git,figma,vscode&perline=12&theme=light" alt="TypeScript, Next.js, React, Tailwind CSS, Flutter, Dart, Supabase, PostgreSQL, Vercel, Git, Figma, VS Code" />
   </picture>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Stripe-9D4EDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## 📊 Actividad · Activité · Activity
+## ♦️ Actividad · Activité · Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Crrenj&hide_border=true&background=00000000&ring=7F5AF0&fire=FF5EA0&currStreakLabel=7F5AF0&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
-    <img src="https://streak-stats.demolab.com?user=Crrenj&hide_border=true&background=00000000&ring=7F5AF0&fire=FF5EA0&currStreakLabel=7F5AF0&currStreakNum=24292F&sideNums=24292F&sideLabels=57606A&dates=6E7781&stroke=D0D7DE" alt="GitHub streak" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Crrenj/Crrenj/output/year.svg" width="100%" alt="Contributions over the last year" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Crrenj&hide_border=true&area=true&color=7F5AF0&line=FF5EA0&point=00C6FF&radius=8&bg_color=0d1117&title_color=E6EDF3" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crrenj&hide_border=true&area=true&color=7F5AF0&line=FF5EA0&point=00C6FF&radius=8&bg_color=ffffff&title_color=24292F" width="100%" alt="Contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Crrenj&hide_border=true&background=00000000&ring=9D4EDD&fire=39FF14&currStreakLabel=C77DFF&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E&stroke=3C096C" />
+    <img src="https://streak-stats.demolab.com?user=Crrenj&hide_border=true&background=00000000&ring=9D4EDD&fire=2EA043&currStreakLabel=9D4EDD&currStreakNum=24292F&sideNums=24292F&sideLabels=57606A&dates=6E7781&stroke=D0D7DE" alt="GitHub streak" />
   </picture>
 </p>
 
@@ -92,10 +89,10 @@ Co-founder of **Lanjo Technologies**, based in Santiago, Dominican Republic. I b
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## 😄 Dev joke of the moment
+## 😈 Why so serious?
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23150726&textColor=%23e6d9ff&aColor=%2339ff14&qColor=%23c77dff&borderColor=%233c096c" alt="Random dev joke" />
 </p>
 
 <img src="assets/footer.svg" width="100%" alt="" />
