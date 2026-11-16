@@ -93,8 +93,8 @@ Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Const
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=-%3F&theme=dracula" />
-    <img src="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=-%3F&theme=flat" alt="GitHub trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dracula" />
+    <img src="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=flat" alt="GitHub trophies" />
   </picture>
 </p>
 
