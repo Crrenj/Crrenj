@@ -59,24 +59,24 @@ Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Const
 <p align="center">
   <sub><b>Languages · Langages · Lenguajes</b></sub><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,dart,py,c,cpp,java,php,bash,html,css&perline=12&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,js,dart,py,c,cpp,java,php,bash,html,css&perline=12&theme=light" alt="TypeScript, JavaScript, Dart, Python, C, C++, Java, PHP, Bash, HTML, CSS" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cdart%2Cpy%2Cc%2Ccpp%2Cjava%2Cphp%2Cbash%2Chtml%2Ccss&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cdart%2Cpy%2Cc%2Ccpp%2Cjava%2Cphp%2Cbash%2Chtml%2Ccss&perline=12&theme=light" alt="TypeScript, JavaScript, Dart, Python, C, C++, Java, PHP, Bash, HTML, CSS" />
   </picture>
 </p>
 
 <p align="center">
   <sub><b>Frameworks</b></sub><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,nodejs,godot&perline=12&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter,nodejs,godot&perline=12&theme=light" alt="Next.js, React, Tailwind CSS, Flutter, Node.js, Godot" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Ctailwind%2Cflutter%2Cnodejs%2Cgodot&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Ctailwind%2Cflutter%2Cnodejs%2Cgodot&perline=12&theme=light" alt="Next.js, React, Tailwind CSS, Flutter, Node.js, Godot" />
   </picture>
 </p>
 
 <p align="center">
   <sub><b>Data · Infra · Tools</b></sub><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=supabase,postgres,vercel,cmake,git,githubactions,figma,vscode&perline=12&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,cmake,git,githubactions,figma,vscode&perline=12&theme=light" alt="Supabase, PostgreSQL, Vercel, CMake, Git, GitHub Actions, Figma, VS Code" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=supabase%2Cpostgres%2Cvercel%2Ccmake%2Cgit%2Cgithubactions%2Cfigma%2Cvscode&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=supabase%2Cpostgres%2Cvercel%2Ccmake%2Cgit%2Cgithubactions%2Cfigma%2Cvscode&perline=12&theme=light" alt="Supabase, PostgreSQL, Vercel, CMake, Git, GitHub Actions, Figma, VS Code" />
   </picture>
 </p>
 
@@ -117,8 +117,8 @@ Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Const
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dracula" />
-    <img src="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=flat" alt="GitHub trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB%2CC&theme=dracula" />
+    <img src="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB%2CC&theme=flat" alt="GitHub trophies" />
   </picture>
 </p>
 
