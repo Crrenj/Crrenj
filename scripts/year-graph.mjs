@@ -37,7 +37,7 @@ for (let i = 1; i < pts.length; i++) {
 }
 const area = `${line} L${x(weeks.length - 1).toFixed(1)} ${H - B} L${L} ${H - B} Z`;
 
-const months = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
+const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 let labels = "", last = -1;
 weeks.forEach((w, i) => {
   const m = new Date(w.date + "T00:00:00Z").getUTCMonth();
@@ -67,8 +67,8 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" wid
 </defs>
 <style>.m,.a{font-family:${mono};font-size:13px;fill:#9f8fb8}.a{text-anchor:end}.g{stroke:#3c2a5a;stroke-width:1;stroke-dasharray:3 6}</style>
 <rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="18" fill="url(#bg)" stroke="#3c096c" stroke-width="2"/>
-<text x="${L}" y="52" font-family="${scrib}" font-size="28" fill="#39ff14">Un año de caos</text>
-<text x="${W - R}" y="52" text-anchor="end" font-family="${mono}" font-size="16" fill="#d9c2ff">${cal.totalContributions} contributions · 365 días</text>
+<text x="${L}" y="52" font-family="${scrib}" font-size="28" fill="#39ff14">A year of chaos</text>
+<text x="${W - R}" y="52" text-anchor="end" font-family="${mono}" font-size="16" fill="#d9c2ff">${cal.totalContributions} contributions · 365 days</text>
 ${grid}${labels}
 <path d="${area}" fill="url(#ar)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="1.2s" fill="freeze"/></path>
 <path d="${line}" fill="none" stroke="url(#ln)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" from="1" to="0" dur="3s" fill="freeze"/></path>

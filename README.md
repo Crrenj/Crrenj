@@ -1,29 +1,29 @@
 <a href="https://mi-saludrd.com"><img src="assets/banner.svg" width="100%" alt="Henri — Why so serious? Co-founder, Lanjo Technologies · Santiago, RD" /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=9D4EDD&center=true&vCenter=true&width=760&height=50&lines=Why+so+serious%3F+%F0%9F%83%8F;Hola%2C+soy+Henri+%F0%9F%91%8B;Salut%2C+moi+c%27est+Henri+%F0%9F%91%8B;Hey%2C+I%27m+Henri+%F0%9F%91%8B;Co-founder+%40+Lanjo+Technologies;Building+Mi+SaludRD+%F0%9F%8F%A5;Next.js+%C2%B7+Flutter+%C2%B7+Supabase+%C2%B7+Stripe;De+la+idea+a+producci%C3%B3n+%F0%9F%9A%80;HA+HA+HA+HA+HA+%F0%9F%83%8F" alt="Why so serious? — Hola · Salut · Hey, soy Henri" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=9D4EDD&center=true&vCenter=true&width=760&height=50&lines=Why+so+serious%3F+%F0%9F%83%8F;Hey%2C+I%27m+Henri+%F0%9F%91%8B;Salut%2C+moi+c%27est+Henri+%F0%9F%91%8B;Hola%2C+soy+Henri+%F0%9F%91%8B;Co-founder+%40+Lanjo+Technologies;Building+Mi+SaludRD+%F0%9F%8F%A5;Next.js+%C2%B7+Flutter+%C2%B7+Supabase+%C2%B7+Stripe;From+idea+to+production+%F0%9F%9A%80;HA+HA+HA+HA+HA+%F0%9F%83%8F" alt="Why so serious? — Hey · Salut · Hola, I'm Henri" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/hablo-Español-2ea043?style=flat-square" alt="Español" />
-  <img src="https://img.shields.io/badge/je_parle-Français-9d4edd?style=flat-square" alt="Français" />
   <img src="https://img.shields.io/badge/I_speak-English-2ea043?style=flat-square" alt="English" />
-  <img src="https://komarev.com/ghpvc/?username=Crrenj&style=flat-square&color=9d4edd&label=visitas" alt="Visitas" />
+  <img src="https://img.shields.io/badge/je_parle-Français-9d4edd?style=flat-square" alt="Français" />
+  <img src="https://img.shields.io/badge/hablo-Español-2ea043?style=flat-square" alt="Español" />
+  <img src="https://komarev.com/ghpvc/?username=Crrenj&style=flat-square&color=9d4edd&label=visits" alt="Visits" />
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="760" alt="Terminal: henri, co-founder at Lanjo Technologies — Español, Français, English — projects: mi-saludrd, lanjo-technologies — why so serious?" />
+  <img src="assets/terminal.svg" width="760" alt="Terminal: henri, co-founder at Lanjo Technologies — English, Français, Español — projects: mi-saludrd, lanjo-technologies — why so serious?" />
 </p>
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## 🃏 Sobre mí · À propos · About
+## 🃏 About · À propos · Sobre mí
 
 <details open>
-<summary><b>🇩🇴 Español</b></summary>
+<summary><b>🇬🇧 English</b></summary>
 <br/>
 
-Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Construyo productos de principio a fin: base de datos, backend, web, móvil y pagos. Ahora mismo, casi todo mi tiempo va a **Mi SaludRD**, una plataforma que conecta pacientes y médicos dominicanos.
+Co-founder of **Lanjo Technologies**, based in Santiago, Dominican Republic. I build products end to end: database, backend, web, mobile and payments. Right now most of my time goes to **Mi SaludRD**, a platform connecting Dominican patients and doctors.
 
 </details>
 
@@ -36,20 +36,20 @@ Co-fondateur de **Lanjo Technologies**, à Santiago, en République dominicaine.
 </details>
 
 <details>
-<summary><b>🇬🇧 English</b></summary>
+<summary><b>🇩🇴 Español</b></summary>
 <br/>
 
-Co-founder of **Lanjo Technologies**, based in Santiago, Dominican Republic. I build products end to end: database, backend, web, mobile and payments. Right now most of my time goes to **Mi SaludRD**, a platform connecting Dominican patients and doctors.
+Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Construyo productos de principio a fin: base de datos, backend, web, móvil y pagos. Ahora mismo, casi todo mi tiempo va a **Mi SaludRD**, una plataforma que conecta pacientes y médicos dominicanos.
 
 </details>
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## ♠️ Proyectos · Projets · Projects
+## ♠️ Projects · Projets · Proyectos
 
 <p align="center">
-  <a href="https://mi-saludrd.com"><img src="assets/card-saludrd.svg" width="49%" alt="Mi SaludRD — salud digital para República Dominicana: médicos, citas en línea y gestión de consultorio. Next.js, Flutter, Supabase, Stripe." /></a>
-  <img src="assets/card-lanjo.svg" width="49%" alt="Lanjo Technologies — estudio de software dominicano: productos web y móviles, de la idea a producción." />
+  <a href="https://mi-saludrd.com"><img src="assets/card-saludrd.svg" width="49%" alt="Mi SaludRD — digital health for the Dominican Republic: find doctors, book online, run a practice. Next.js, Flutter, Supabase, Stripe." /></a>
+  <img src="assets/card-lanjo.svg" width="49%" alt="Lanjo Technologies — Dominican software studio: web and mobile products, from idea to production." />
 </p>
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
@@ -67,7 +67,7 @@ Co-founder of **Lanjo Technologies**, based in Santiago, Dominican Republic. I b
 
 <img src="assets/divider.svg" width="100%" height="6" alt="" />
 
-## ♦️ Actividad · Activité · Activity
+## ♦️ Activity · Activité · Actividad
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Crrenj/Crrenj/output/year.svg" width="100%" alt="Contributions over the last year" />
