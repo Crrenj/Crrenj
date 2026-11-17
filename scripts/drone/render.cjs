@@ -9,7 +9,7 @@ const fs = require('fs'), path = require('path');
   fs.mkdirSync(dir, { recursive: true });
   const build = path.dirname(require.resolve('three')); // node_modules/three/build
   const b = await chromium.launch({ executablePath: exe || undefined, args: ['--ignore-gpu-blocklist', '--enable-unsafe-swiftshader'] });
-  const p = await b.newPage({ viewport: { width: 880, height: 460 }, deviceScaleFactor: 1 });
+  const p = await b.newPage({ viewport: { width: 1320, height: 360 }, deviceScaleFactor: 1 });
   p.on('pageerror', (e) => console.error('pageerror', String(e)));
   // Serve the card and three's ES modules from a fake origin (module imports are blocked on file://).
   await p.route('http://card.local/**', (route) => {

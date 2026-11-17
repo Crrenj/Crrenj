@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 34" width="181" height="34" role="img" aria-label="ES · ESPAÑOL">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e3a29"/><stop offset="1" stop-color="#06170f"/></linearGradient></defs>
+<rect x="1" y="1" width="179" height="32" rx="16" fill="url(#bg)" stroke="#b87333" stroke-width="1.5"/>
+<circle cx="20" cy="17" r="5.5" fill="#5df2c0"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="99.5" y="22" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" letter-spacing="1.5" fill="#ffd166">ES · ESPAÑOL</text>
+</svg>

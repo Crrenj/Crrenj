@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 246" width="100%" role="img" aria-label="Soy de París, Francia, y co-fundador de Lanjo Technologies, una empresa con sede en Santiago, República Dominicana, con la que trabajo a distancia. Construyo productos de principio a fin: base de datos, backend, web, móvil y pagos. Ahora mismo, casi todo mi tiempo va a Mi SaludRD, una plataforma que conecta pacientes y médicos dominicanos.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e3a29"/><stop offset="1" stop-color="#06170f"/></linearGradient><clipPath id="c"><rect x="1" y="1" width="1198" height="244" rx="16"/></clipPath></defs>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:19px}@keyframes l{from{opacity:0}to{opacity:1}}.l{animation:l .35s backwards}</style>
+<rect x="1" y="1" width="1198" height="244" rx="16" fill="#07130d" stroke="#b87333" stroke-width="2"/>
+<g clip-path="url(#c)"><rect x="1" y="1" width="1198" height="46" fill="url(#bg)"/><rect x="1" y="46" width="1198" height="1.500" fill="#b87333"/></g>
+<circle cx="30" cy="24" r="6" fill="#3dff8a"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="50" y="30" fill="#ffd166" font-weight="800" letter-spacing="2" style="font-size:16px">ABOUT.ES</text>
+<text x="1170" y="30" text-anchor="end" fill="#8fb3a2" letter-spacing="2" style="font-size:12px">DATASHEET · HENRI · U1</text>
+<g class="l" style="animation-delay:0.30s"><text x="30" y="96" fill="#4f6e60" font-size="13">01</text><text x="64" y="96" fill="#d7e6dc" xml:space="preserve">Soy de París, Francia, y co-fundador de <tspan fill="#ffd166" font-weight="700">Lanjo</tspan> <tspan fill="#ffd166" font-weight="700">Technologies</tspan>, una empresa con sede en</text></g>
+<g class="l" style="animation-delay:0.52s"><text x="30" y="130" fill="#4f6e60" font-size="13">02</text><text x="64" y="130" fill="#d7e6dc" xml:space="preserve">Santiago, República Dominicana, con la que trabajo a distancia. Construyo productos de</text></g>
+<g class="l" style="animation-delay:0.74s"><text x="30" y="164" fill="#4f6e60" font-size="13">03</text><text x="64" y="164" fill="#d7e6dc" xml:space="preserve">principio a fin: base de datos, backend, web, móvil y pagos. Ahora mismo, casi todo mi</text></g>
+<g class="l" style="animation-delay:0.96s"><text x="30" y="198" fill="#4f6e60" font-size="13">04</text><text x="64" y="198" fill="#d7e6dc" xml:space="preserve">tiempo va a <tspan fill="#ffd166" font-weight="700">Mi</tspan> <tspan fill="#ffd166" font-weight="700">SaludRD</tspan>, una plataforma que conecta pacientes y médicos dominicanos.</text></g>
+</svg>

@@ -13,35 +13,35 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🛰️ About · À propos · Sobre mí
+<img src="assets/h-about.svg" width="100%" alt="About · À propos · Sobre mí" />
 
 <details open>
-<summary><b>🇬🇧 English</b></summary>
+<summary><img src="assets/lang-en.svg" height="26" align="center" alt="English" /></summary>
 <br/>
 
-I'm from Paris, France, and co-founder of **Lanjo Technologies**, a company based in Santiago, Dominican Republic, that I work with remotely. I build products end to end: database, backend, web, mobile and payments. Right now most of my time goes to **Mi SaludRD**, a platform connecting Dominican patients and doctors.
+<img src="assets/about-en.svg" width="100%" alt="I'm from Paris, France, and co-founder of Lanjo Technologies, a company based in Santiago, Dominican Republic, that I work with remotely. I build products end to end: database, backend, web, mobile and payments. Right now most of my time goes to Mi SaludRD, a platform connecting Dominican patients and doctors." />
 
 </details>
 
 <details>
-<summary><b>🇫🇷 Français</b></summary>
+<summary><img src="assets/lang-fr.svg" height="26" align="center" alt="Français" /></summary>
 <br/>
 
-Je viens de Paris, en France, et je suis co-fondateur de **Lanjo Technologies**, une entreprise basée à Santiago, en République dominicaine, avec laquelle je travaille à distance. Je construis des produits de bout en bout : base de données, backend, web, mobile et paiements. En ce moment, presque tout mon temps va à **Mi SaludRD**, une plateforme qui relie patients et médecins dominicains.
+<img src="assets/about-fr.svg" width="100%" alt="Je viens de Paris, en France, et je suis co-fondateur de Lanjo Technologies, une entreprise basée à Santiago, en République dominicaine, avec laquelle je travaille à distance. Je construis des produits de bout en bout : base de données, backend, web, mobile et paiements. En ce moment, presque tout mon temps va à Mi SaludRD, une plateforme qui relie patients et médecins dominicains." />
 
 </details>
 
 <details>
-<summary><b>🇩🇴 Español</b></summary>
+<summary><img src="assets/lang-es.svg" height="26" align="center" alt="Español" /></summary>
 <br/>
 
-Soy de París, Francia, y co-fundador de **Lanjo Technologies**, una empresa con sede en Santiago, República Dominicana, con la que trabajo a distancia. Construyo productos de principio a fin: base de datos, backend, web, móvil y pagos. Ahora mismo, casi todo mi tiempo va a **Mi SaludRD**, una plataforma que conecta pacientes y médicos dominicanos.
+<img src="assets/about-es.svg" width="100%" alt="Soy de París, Francia, y co-fundador de Lanjo Technologies, una empresa con sede en Santiago, República Dominicana, con la que trabajo a distancia. Construyo productos de principio a fin: base de datos, backend, web, móvil y pagos. Ahora mismo, casi todo mi tiempo va a Mi SaludRD, una plataforma que conecta pacientes y médicos dominicanos." />
 
 </details>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🔌 Projects · Projets · Proyectos
+<img src="assets/h-projects.svg" width="100%" alt="Projects · Projets · Proyectos" />
 
 <p align="center">
   <a href="https://mi-saludrd.com"><img src="assets/card-saludrd.svg" width="49%" alt="Mi SaludRD — digital health for the Dominican Republic: find doctors, book online, run a practice. Next.js, Flutter, Supabase, Stripe." /></a>
@@ -49,15 +49,15 @@ Soy de París, Francia, y co-fundador de **Lanjo Technologies**, una empresa con
 </p>
 
 <p align="center">
-  <img src="assets/card-portaerius.webp" width="49%" alt="Portaerius — autonomous drone platform. Private R&amp;D, in development. Python, C++. Private repository." />
+  <img src="assets/card-portaerius.webp" width="100%" alt="Portaerius — autonomous drone platform. Private R&amp;D, in development. Python, C++. Private repository." />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🧰 Stack
+<img src="assets/h-stack.svg" width="100%" alt="Stack" />
 
 <p align="center">
-  <sub><b>Languages · Langages · Lenguajes</b></sub><br/>
+  <img src="assets/sub-languages.svg" height="26" alt="Languages · Langages · Lenguajes" /><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cdart%2Cpy%2Cc%2Ccpp%2Cjava%2Cphp%2Cbash%2Chtml%2Ccss&perline=12&theme=dark" />
     <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cdart%2Cpy%2Cc%2Ccpp%2Cjava%2Cphp%2Cbash%2Chtml%2Ccss&perline=12&theme=light" alt="TypeScript, JavaScript, Dart, Python, C, C++, Java, PHP, Bash, HTML, CSS" />
@@ -65,7 +65,7 @@ Soy de París, Francia, y co-fundador de **Lanjo Technologies**, una empresa con
 </p>
 
 <p align="center">
-  <sub><b>Frameworks</b></sub><br/>
+  <img src="assets/sub-frameworks.svg" height="26" alt="Frameworks" /><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Ctailwind%2Cflutter%2Cnodejs%2Cgodot&perline=12&theme=dark" />
     <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Ctailwind%2Cflutter%2Cnodejs%2Cgodot&perline=12&theme=light" alt="Next.js, React, Tailwind CSS, Flutter, Node.js, Godot" />
@@ -73,7 +73,7 @@ Soy de París, Francia, y co-fundador de **Lanjo Technologies**, una empresa con
 </p>
 
 <p align="center">
-  <sub><b>Data · Infra · Tools</b></sub><br/>
+  <img src="assets/sub-tools.svg" height="26" alt="Data · Infra · Tools" /><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=supabase%2Cpostgres%2Cvercel%2Ccmake%2Cgit%2Cgithubactions%2Cfigma%2Cvscode&perline=12&theme=dark" />
     <img src="https://skillicons.dev/icons?i=supabase%2Cpostgres%2Cvercel%2Ccmake%2Cgit%2Cgithubactions%2Cfigma%2Cvscode&perline=12&theme=light" alt="Supabase, PostgreSQL, Vercel, CMake, Git, GitHub Actions, Figma, VS Code" />
@@ -87,7 +87,7 @@ Soy de París, Francia, y co-fundador de **Lanjo Technologies**, una empresa con
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📡 Activity · Activité · Actividad
+<img src="assets/h-activity.svg" width="100%" alt="Activity · Activité · Actividad" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Crrenj/Crrenj/output/year.svg" width="100%" alt="Flight telemetry: contributions per week over the last year, drawn as an oscilloscope trace" />
@@ -102,7 +102,7 @@ Soy de París, Francia, y co-fundador de **Lanjo Technologies**, una empresa con
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🎖️ Trophies &amp; badges · Trophées · Trofeos
+<img src="assets/h-trophies.svg" width="100%" alt="Trophies &amp; badges · Trophées · Trofeos" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Crrenj/Crrenj/output/trophies.svg" width="100%" alt="Mission badges from the last year of contributions: total, best day, best week, longest streak, active days, current streak" />
