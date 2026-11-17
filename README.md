@@ -1,29 +1,25 @@
-<a href="https://mi-saludrd.com"><img src="assets/banner.svg" width="100%" alt="Henri — Why so serious? Co-founder, Lanjo Technologies · Santiago, RD" /></a>
+<a href="https://mi-saludrd.com"><img src="assets/banner.svg" width="100%" alt="Henri — co-founder, Lanjo Technologies · Paris, France. A circuit board whose copper traces light up a chip marked Henri." /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=900&color=9D4EDD&center=true&vCenter=true&width=760&height=50&lines=Why+so+serious%3F+%F0%9F%83%8F;Hey%2C+I%27m+Henri+%F0%9F%91%8B;Salut%2C+moi+c%27est+Henri+%F0%9F%91%8B;Hola%2C+soy+Henri+%F0%9F%91%8B;Co-founder+%40+Lanjo+Technologies;Building+Mi+SaludRD+%F0%9F%8F%A5;Next.js+%C2%B7+Flutter+%C2%B7+Supabase+%C2%B7+Stripe;From+idea+to+production+%F0%9F%9A%80;HA+HA+HA+HA+HA+%F0%9F%83%8F" alt="Why so serious? — Hey · Salut · Hola, I'm Henri" />
+  <img src="https://img.shields.io/badge/I_speak-English-0e3a29?style=flat-square&labelColor=b87333" alt="English" />
+  <img src="https://img.shields.io/badge/je_parle-Français-0e3a29?style=flat-square&labelColor=b87333" alt="Français" />
+  <img src="https://img.shields.io/badge/hablo-Español-0e3a29?style=flat-square&labelColor=b87333" alt="Español" />
+  <img src="https://komarev.com/ghpvc/?username=Crrenj&style=flat-square&color=0e3a29&label=visits" alt="Visits" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/I_speak-English-2ea043?style=flat-square" alt="English" />
-  <img src="https://img.shields.io/badge/je_parle-Français-9d4edd?style=flat-square" alt="Français" />
-  <img src="https://img.shields.io/badge/hablo-Español-2ea043?style=flat-square" alt="Español" />
-  <img src="https://komarev.com/ghpvc/?username=Crrenj&style=flat-square&color=9d4edd&label=visits" alt="Visits" />
+  <img src="assets/terminal.svg" width="760" alt="Serial monitor, firmware boot log: henri-fw — languages EN, FR, ES — link Paris, FR to Santiago, RD (remote) — co-founder at Lanjo Technologies — projects: mi-saludrd, lanjo-technologies, portaerius — all systems nominal." />
 </p>
 
-<p align="center">
-  <img src="assets/terminal.svg" width="760" alt="Terminal: henri, co-founder at Lanjo Technologies — English, Français, Español — projects: mi-saludrd, lanjo-technologies — why so serious?" />
-</p>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
-
-## 🃏 About · À propos · Sobre mí
+## 🛰️ About · À propos · Sobre mí
 
 <details open>
 <summary><b>🇬🇧 English</b></summary>
 <br/>
 
-Co-founder of **Lanjo Technologies**, based in Santiago, Dominican Republic. I build products end to end: database, backend, web, mobile and payments. Right now most of my time goes to **Mi SaludRD**, a platform connecting Dominican patients and doctors.
+I'm from Paris, France, and co-founder of **Lanjo Technologies**, a company based in Santiago, Dominican Republic, that I work with remotely. I build products end to end: database, backend, web, mobile and payments. Right now most of my time goes to **Mi SaludRD**, a platform connecting Dominican patients and doctors.
 
 </details>
 
@@ -31,7 +27,7 @@ Co-founder of **Lanjo Technologies**, based in Santiago, Dominican Republic. I b
 <summary><b>🇫🇷 Français</b></summary>
 <br/>
 
-Co-fondateur de **Lanjo Technologies**, à Santiago, en République dominicaine. Je construis des produits de bout en bout : base de données, backend, web, mobile et paiements. En ce moment, presque tout mon temps va à **Mi SaludRD**, une plateforme qui relie patients et médecins dominicains.
+Je viens de Paris, en France, et je suis co-fondateur de **Lanjo Technologies**, une entreprise basée à Santiago, en République dominicaine, avec laquelle je travaille à distance. Je construis des produits de bout en bout : base de données, backend, web, mobile et paiements. En ce moment, presque tout mon temps va à **Mi SaludRD**, une plateforme qui relie patients et médecins dominicains.
 
 </details>
 
@@ -39,22 +35,26 @@ Co-fondateur de **Lanjo Technologies**, à Santiago, en République dominicaine.
 <summary><b>🇩🇴 Español</b></summary>
 <br/>
 
-Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Construyo productos de principio a fin: base de datos, backend, web, móvil y pagos. Ahora mismo, casi todo mi tiempo va a **Mi SaludRD**, una plataforma que conecta pacientes y médicos dominicanos.
+Soy de París, Francia, y co-fundador de **Lanjo Technologies**, una empresa con sede en Santiago, República Dominicana, con la que trabajo a distancia. Construyo productos de principio a fin: base de datos, backend, web, móvil y pagos. Ahora mismo, casi todo mi tiempo va a **Mi SaludRD**, una plataforma que conecta pacientes y médicos dominicanos.
 
 </details>
 
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## ♠️ Projects · Projets · Proyectos
+## 🔌 Projects · Projets · Proyectos
 
 <p align="center">
   <a href="https://mi-saludrd.com"><img src="assets/card-saludrd.svg" width="49%" alt="Mi SaludRD — digital health for the Dominican Republic: find doctors, book online, run a practice. Next.js, Flutter, Supabase, Stripe." /></a>
   <img src="assets/card-lanjo.svg" width="49%" alt="Lanjo Technologies — Dominican software studio: web and mobile products, from idea to production." />
 </p>
 
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
+<p align="center">
+  <img src="assets/card-portaerius.webp" width="49%" alt="Portaerius — autonomous drone platform. Private R&amp;D, in development. Python, C++. Private repository." />
+</p>
 
-## ♣️ Stack
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🧰 Stack
 
 <p align="center">
   <sub><b>Languages · Langages · Lenguajes</b></sub><br/>
@@ -81,23 +81,16 @@ Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Const
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL_/_PL%2FpgSQL-9D4EDD?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL / PL/pgSQL" />
-  <img src="https://img.shields.io/badge/Stripe-9D4EDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/SQL_/_PL%2FpgSQL-B87333?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL / PL/pgSQL" />
+  <img src="https://img.shields.io/badge/Stripe-B87333?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## ♦️ Activity · Activité · Actividad
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Crrenj/Crrenj/output/year.svg" width="100%" alt="Contributions over the last year" />
-</p>
+## 📡 Activity · Activité · Actividad
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Crrenj&hide_border=true&background=00000000&ring=9D4EDD&fire=39FF14&currStreakLabel=C77DFF&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E&stroke=3C096C" />
-    <img src="https://streak-stats.demolab.com?user=Crrenj&hide_border=true&background=00000000&ring=9D4EDD&fire=2EA043&currStreakLabel=9D4EDD&currStreakNum=24292F&sideNums=24292F&sideLabels=57606A&dates=6E7781&stroke=D0D7DE" alt="GitHub streak" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Crrenj/Crrenj/output/year.svg" width="100%" alt="Flight telemetry: contributions per week over the last year, drawn as an oscilloscope trace" />
 </p>
 
 <p align="center">
@@ -107,19 +100,12 @@ Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Const
   </picture>
 </p>
 
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🏆 Trophies &amp; badges · Trophées · Trofeos
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Crrenj/Crrenj/output/trophies.svg" width="100%" alt="Trophies from the last year of contributions: total, best day, best week, longest streak, active days, current streak" />
-</p>
+## 🎖️ Trophies &amp; badges · Trophées · Trofeos
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB%2CC&theme=dracula" />
-    <img src="https://github-trophies.vercel.app/?username=Crrenj&no-frame=true&no-bg=true&column=6&margin-w=12&rank=SECRET%2CSSS%2CSS%2CS%2CAAA%2CAA%2CA%2CB%2CC&theme=flat" alt="GitHub trophies" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Crrenj/Crrenj/output/trophies.svg" width="100%" alt="Mission badges from the last year of contributions: total, best day, best week, longest streak, active days, current streak" />
 </p>
 
 <p align="center">
@@ -131,12 +117,6 @@ Co-fundador de **Lanjo Technologies**, en Santiago, República Dominicana. Const
   <sub><b>Pair Extraordinaire ×4</b> · <b>Pull Shark ×3</b> · <b>Quickdraw</b> · <b>YOLO</b></sub>
 </p>
 
-<img src="assets/divider.svg" width="100%" height="6" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 😈 Why so serious?
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23150726&textColor=%23e6d9ff&aColor=%2339ff14&qColor=%23c77dff&borderColor=%233c096c" alt="Random dev joke" />
-</p>
-
-<img src="assets/footer.svg" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="A rocket lifting off at night. Thanks for visiting · Merci de la visite · Gracias por la visita." />

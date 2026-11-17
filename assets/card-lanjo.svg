@@ -27,4 +27,9 @@
     <rect x="158" y="194" width="56" height="22" rx="11" fill="#fff" fill-opacity=".08"/><text x="186" y="209" text-anchor="middle">SaaS</text>
   </g>
   <text x="412" y="210" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#8e9095">Santiago, RD</text>
+  <!--pcb--><g clip-path="url(#pcbclip)"><g fill="#e3b341"><circle cx="1" cy="46" r="6"/><circle cx="1" cy="70" r="6"/><circle cx="1" cy="94" r="6"/><circle cx="1" cy="118" r="6"/><circle cx="1" cy="142" r="6"/><circle cx="1" cy="166" r="6"/><circle cx="439" cy="46" r="6"/><circle cx="439" cy="70" r="6"/><circle cx="439" cy="94" r="6"/><circle cx="439" cy="118" r="6"/><circle cx="439" cy="142" r="6"/><circle cx="439" cy="166" r="6"/></g><g fill="#0b0b0c" fill-opacity=".55"><circle cx="1" cy="46" r="2.2"/><circle cx="1" cy="70" r="2.2"/><circle cx="1" cy="94" r="2.2"/><circle cx="1" cy="118" r="2.2"/><circle cx="1" cy="142" r="2.2"/><circle cx="1" cy="166" r="2.2"/><circle cx="439" cy="46" r="2.2"/><circle cx="439" cy="70" r="2.2"/><circle cx="439" cy="94" r="2.2"/><circle cx="439" cy="118" r="2.2"/><circle cx="439" cy="142" r="2.2"/><circle cx="439" cy="166" r="2.2"/></g></g>
+  <clipPath id="pcbclip"><rect x="1" y="1" width="438" height="228" rx="18"/></clipPath>
+  <text x="404" y="24" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" letter-spacing="1.5" fill="#8e9095">U3 · MODULE</text>
+  <circle cx="416" cy="20.500" r="4" fill="#ffb000"><animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="416" cy="20.500" r="8" fill="#ffb000" opacity=".25"><animate attributeName="opacity" values=".3;0;.3" dur="2.2s" repeatCount="indefinite"/></circle><!--/pcb-->
 </svg>
