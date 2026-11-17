@@ -44,8 +44,11 @@
 <img src="assets/h-projects.svg" width="100%" alt="Projects · Projets · Proyectos" />
 
 <p align="center">
-  <a href="https://mi-saludrd.com"><img src="assets/card-saludrd.svg" width="49%" alt="Mi SaludRD — digital health for the Dominican Republic: find doctors, book online, run a practice. Next.js, Flutter, Supabase, Stripe." /></a>
-  <img src="assets/card-lanjo.svg" width="49%" alt="Lanjo Technologies — Dominican software studio: web and mobile products, from idea to production." />
+  <a href="https://mi-saludrd.com"><img src="assets/card-saludrd.svg" width="100%" alt="Mi SaludRD — digital health for the Dominican Republic: find doctors, book online, run a practice. Next.js, Flutter, Supabase, Stripe." /></a>
+</p>
+
+<p align="center">
+  <img src="assets/card-lanjo.svg" width="100%" alt="Lanjo Technologies — Dominican software studio: web and mobile products, from idea to production." />
 </p>
 
 <p align="center">
